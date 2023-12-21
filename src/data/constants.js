@@ -137,12 +137,11 @@ export const experiences = [
     desc: "Spearheaded the creation of an innovative website platform exclusively for students (school and college) to showcase their accomplishments and skills. Technologies used- Frontend- Reactjs, Redux, Tailwind CSS Database and Authentication- Firebase. My Role- Frontend and connection of the firebase to the website",
 
     skills: [
-      "React JS",
-      "JavaScript",
-      "Redux",
-      "Tailwind CSS",
+      "Vite Js",
       "Node Js",
       "Firebase",
+      "Redux",
+      "Javascript",
     ],
     doc: "https://drive.google.com/file/d/1i9UjkfpCsvBobKrcT-Kk_iDq1UdiWO7E/view?usp=sharing",
   },
@@ -194,7 +193,25 @@ export const education = [
 ];
 
 export const projects = [
-  
+  {
+    id: 0,
+    title: "Website to Showcase your skills and achievements",
+    date: "June 2023 - August 2023",
+    description:
+      "LinkUp, a pioneering education platform, seamlessly merges ReactJS and Firebase for a dynamic user experience. Boasting a secure authentication system, it empowers students to digitally showcase academic and extracurricular achievements. Innovative features like 'Start a Post,' 'Update a Post,' and 'Delete a Post' facilitate effortless content creation. Social engagement is elevated through 'Like and Comment on a Post' functions, promoting a vibrant community. Personalization options extend to 'Update Profile,' 'Profile Pictures,' and 'Post Images,' ensuring individualized representation. With advanced features like 'Events' and 'Project Collaboration,' LinkUp evolves into a comprehensive hub, meeting diverse student needs and redefining the educational technology landscape.",
+    image:
+      "https://gist.github.com/assets/76788328/3029e5a4-f848-42f2-b4d8-a2b4fca81b25",
+    tags: [
+      "Vite Js",
+      "Node Js",
+      "Firebase",
+      "Redux",
+      "Javascript",
+    ],
+    category: "web app",
+    github: "https://github.com/VBGCoder/Internship-2-LinkUp",
+    webapp: "link-up-self.vercel.app",
+  },
   {
     id: 0,
     title: "Online Yoga Tutor Using Advanced Computer Vision",
