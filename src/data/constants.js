@@ -210,7 +210,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/VBGCoder/Internship-2-LinkUp",
-    webapp: "link-up-self.vercel.app",
+    webapp: "https://link-up-vibhor-goels-projects.vercel.app",
   },
   {
     id: 0,
