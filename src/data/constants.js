@@ -169,7 +169,7 @@ export const education = [
     school: "University Of Petroleum And Energy Studies, Dehradun, Uttarakhand",
     date: "August 2020- June 2024",
     grade: "8.12* CGPA(till 7th Semester)",
-    desc: "I am currently pursuing B.Tech in Computer Science and Engineering at University Of Petroleum And Energy Studies, Dehradun. I have completed 7th semesters and have a CGPA of 8.02. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Cloud Computing. I am also a member of the Cloud Security Alliance at UPES, where I am learning and working on exciting projects with a team of talented developers. I have keen interest in Web development and Cloud Computing.",
+    desc: "I am currently pursuing B.Tech in Computer Science and Engineering at University Of Petroleum And Energy Studies, Dehradun. I have completed 7th semesters and have a CGPA of 8.12. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, Operating Systems, and Cloud Computing. I am also a member of the Cloud Security Alliance at UPES, where I am learning and working on exciting projects with a team of talented developers. I have keen interest in Web development and Cloud Computing.",
     degree: "BTech- Computer Science and Engineering",
   },
   {
