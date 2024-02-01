@@ -8,7 +8,7 @@ export const Bio = {
     "I am a dedicated B.Tech student specializing in Computer Science and Engineering. Proficient in web and software development, I have excelled in internships, contributing to innovative projects using technologies such as React.js, Redux, Flutter, and Cloud Computing. I am a dynamic problem-solver passionate about leveraging cutting-edge technologies for transformative digital experiences.",
   linkedin: "https://www.linkedin.com/in/vibhor-goel03092002/",
   resume:
-    "https://drive.google.com/file/d/1WFLg-3KFM8jMxCaBN5ebz14s_SYOPrUc/view",
+    "https://drive.google.com/file/d/1FZBQ6X44C18FWzVQeQJhJ-hFylypyezO/view?usp=sharing",
   GitHub: "https://github.com/VBGCoder",
   twitter: "https://twitter.com/VibhorGoel88290",
   insta: "https://www.instagram.com/techvibes0/",
