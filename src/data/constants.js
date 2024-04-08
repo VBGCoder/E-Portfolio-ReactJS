@@ -3,6 +3,7 @@ export const Bio = {
   roles: [
     "Front-end Developer",
     "Javascript Developer,
+    "Cloud Engineer"
   ],
   description:
     "I am a dedicated B.Tech student specializing in Computer Science and Engineering. Proficient in web and software development, I have excelled in internships, contributing to innovative projects using technologies such as React.js, Redux, Flutter, and Cloud Computing. I am a dynamic problem-solver passionate about leveraging cutting-edge technologies for transformative digital experiences.",
